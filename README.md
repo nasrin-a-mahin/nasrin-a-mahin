@@ -1,16 +1,16 @@
 <div align="center">
   
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.abdulvahabaa.in">Nasrin A Mahin</a> <img src="animated/unicorn.gif" height="40" />
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.nasrinamahin.in">Nasrin A Mahin</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
 ### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍🏫 Tech Trainer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdulvahabaa.in/)
-[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/abdulvahabaa_resume_2025.pdf)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrinamahin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nasrinamahin.in/)
+[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/nasrinamahin_resume_2025.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasrinamahin916@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+9747733770)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdulvahabaa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nasrinamahin/)
 
 </div>
 
@@ -34,8 +34,8 @@
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
 🤖 My Digital Stats :  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/github/stars/abdulvahabaa?style=flat-square&logo=github)](https://github.com/abdulvahabaa)
-[![GitHub Followers](https://img.shields.io/github/followers/abdulvahabaa?style=flat-square&logo=github)](https://github.com/abdulvahabaa?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/nasrinamahin) [![GitHub Stars](https://img.shields.io/github/stars/nasrinamahin?style=flat-square&logo=github)](https://github.com/nasrinamahin)
+[![GitHub Followers](https://img.shields.io/github/followers/nasrinamahin?style=flat-square&logo=github)](https://github.com/nasrinamahin?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=nasrinamahin&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
@@ -77,30 +77,30 @@
 
 ---
 
-## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
+## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=nasrinamahin&pretty=true)](https://visitcount.itsvg.in)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <div  >
-<a  href="https://github.com/abdulvahabaa">
+<a  href="https://github.com/nasrinamahin">
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulvahabaa&theme=2077" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrinamahin&theme=2077" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrinamahin&theme=2077&exclude={exclude}" width="32.5%" >
 </div>
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulvahabaa&theme=2077&utcOffset=+05.30" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrinamahin&theme=2077&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasrinamahin&theme=2077&utcOffset=+05.30" width="32.5%" >
 </div>
 </a>
 <details>
   <summary>More stats</summary>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulvahabaa&theme=2077" >
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasrinamahin&theme=2077" >
 </details>
 </div>
 
 ## 🧑🏻‍💻Leetcode Stats
 
-[![Leetcode stats](https://leetcard.jacoblin.cool/abdulvahabaa?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/abdulvahabaa/)
+[![Leetcode stats](https://leetcard.jacoblin.cool/nasrinamahin?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/nasrinamahin/)
 
 ---
 
