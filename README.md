@@ -30,7 +30,7 @@
 - 🤝 Open to collaborate on Projects & Freelance Works -->
 
 📑 Work Stats :  
-![Projects](https://img.shields.io/badge/Projects-25-blue?logo=github)
+![Projects](https://img.shields.io/badge/Projects-2-blue?logo=github)
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
 🤖 My Digital Stats :  
