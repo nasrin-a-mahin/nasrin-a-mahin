@@ -5,7 +5,7 @@
 
 ### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍🏫 Tech Trainer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrin-mahin-3b97443a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrin-mahin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nasrinamahin.in/)
 [![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/nasrinamahin_resume_2025.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasrinamahinofficial@gmail.com)
