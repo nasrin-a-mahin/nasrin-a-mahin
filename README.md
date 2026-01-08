@@ -34,7 +34,7 @@
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
 🤖 My Digital Stats :  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/nasrinamahin) [![GitHub Stars](https://img.shields.io/github/stars/nasrinamahin?style=flat-square&logo=github)](https://github.com/nasrinamahin)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-blue?logo=linkedin)](https://www.linkedin.com/in/nasrinamahin) [![GitHub Stars](https://img.shields.io/github/stars/nasrinamahin?style=flat-square&logo=github)](https://github.com/nasrinamahin)
 [![GitHub Followers](https://img.shields.io/github/followers/nasrinamahin?style=flat-square&logo=github)](https://github.com/nasrinamahin?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=nasrinamahin&pretty=true)](https://visitcount.itsvg.in)
 
 ---
