@@ -29,7 +29,7 @@
 
 ---
 
-<img src="./images/python_illustration.png" width="320px" align="right"/>
+<img src="./images/dev.png" width="320px" align="right"/>
 
 - 💻 **Python Full-Stack Developer** (Django • DRF • PostgreSQL • MySQL)
 - 🚀 Passionate about backend engineering & clean API design
@@ -58,10 +58,11 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
+<img align='right' src="./animated/dev.gif" width="330">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrin-a-mahin&theme=2077" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrin-a-mahin&theme=2077" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrin-a-mahin&theme=2077&exclude={exclude}" width="32.5%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasrin-a-mahin&theme=2077&utcOffset=+05.30" width="32%"/>
 </div>
 
