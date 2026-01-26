@@ -58,13 +58,28 @@
 ---
 
 ### 📊 GitHub Stats
-<img align='right' src="./animated/dev1.gif" width="300" height="330">
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrin-a-mahin&theme=2077" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrin-a-mahin&theme=2077" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrin-a-mahin&theme=2077&exclude={exclude}" width="32.5%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasrin-a-mahin&theme=2077&utcOffset=+05.30" width="32%"/>
-</div>
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrin-a-mahin&theme=2077" />
+    </td>
+    <td style="border:none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrin-a-mahin&theme=2077" />
+    </td>
+    <td rowspan="2" align="center" style="border:none;">
+      <img src="./animated/dev1.gif" width="280" />
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrin-a-mahin&theme=2077" />
+    </td>
+    <td style="border:none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasrin-a-mahin&theme=2077&utcOffset=+05.30" />
+    </td>
+  </tr>
+</table>
 
 ---
 
