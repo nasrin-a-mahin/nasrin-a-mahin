@@ -15,7 +15,7 @@
 <a href="https://https://nasrinamahin.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="/resume/nasrinamahin_resume_2025.pdf">
+<a href="/resume/Nasrin_a _mahin_resume_2026 .pdf">
   <img src="https://img.shields.io/badge/Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white"/>
 </a>
 <a href="mailto:nasrinamahinofficial@gmail.com">
@@ -58,24 +58,23 @@
 ---
 
 ### 📊 GitHub Stats
-<table cellspacing="0" cellpadding="0" style="border:none;">
+<table align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="border:none;">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrin-a-mahin&theme=2077" />
     </td>
-    <td style="border:none;">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrin-a-mahin&theme=2077" />
     </td>
-    <td rowspan="2" align="center" style="border:none;">
-      <img src="./animated/dev1.gif" width="280" />
+    <td rowspan="2" align="center">
+      <img src="./animated/dev1.gif" width="260" />
     </td>
   </tr>
-
   <tr>
-    <td style="border:none;">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrin-a-mahin&theme=2077" />
     </td>
-    <td style="border:none;">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasrin-a-mahin&theme=2077&utcOffset=+05.30" />
     </td>
   </tr>
