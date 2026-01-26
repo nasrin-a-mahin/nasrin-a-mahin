@@ -58,7 +58,7 @@
 ---
 
 ### 📊 GitHub Stats
-<img align='right' src="./animated/dev.gif" width="330">
+<img align='right' src="./animated/dev1.gif" width="300" height="330">
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrin-a-mahin&theme=2077" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrin-a-mahin&theme=2077" width="32%"/>
