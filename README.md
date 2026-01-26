@@ -1,18 +1,80 @@
-<div align="center">
-  
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.nasrinamahin.in">Nasrin A Mahin</a> <img src="animated/unicorn.gif" height="40" />
+<h1 align="center">
+  Hi there 👋, I'm 
+  <a href="https://www.nasrinamahin.in">Nasrin A Mahin</a> 🐍
 </h1>
 
-### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍🏫 Tech Trainer
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nasrin-mahin-3b97443a3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nasrinamahin.in/)
-[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/nasrinamahin_resume_2025.pdf)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasrinamahinofficial@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+9544237718)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/nasrinamahin/](https://leetcode.com/u/Nasrin_A_Mahin/))
+<b>Python Full-Stack Developer | Django & REST APIs | Tech Trainer</b>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/nasrin-mahin-3b97443a3">
+  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://https://nasrinamahin.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="/resume/nasrinamahin_resume_2025.pdf">
+  <img src="https://img.shields.io/badge/Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white"/>
+</a>
+<a href="mailto:nasrinamahinofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Nasrin_A_Mahin/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
+<img src="./images/python_illustration.png" width="320px" align="right"/>
+
+- 💻 **Python Full-Stack Developer** (Django • DRF • PostgreSQL • MySQL)
+- 🚀 Passionate about backend engineering & clean API design
+- 🌱 Currently strengthening **SQL, Django ORM & System Design**
+- 🧠 Strong in **problem-solving & data handling**
+- 👨‍🏫 Experienced **Tech Trainer** (Python, Data Analytics, Full Stack)
+- 🤝 Open to collaborate on **Python/Django projects**
+- 🎓 Computer Science background | Lifelong learner
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="svgs/Python.svg" height="45"/> &nbsp;
+  <img src="svgs/Django.svg" height="45"/> &nbsp;
+  <img src="svgs/PostgresSQL.svg" height="45"/> &nbsp;
+  <img src="svgs/MySQL.svg" height="45"/> &nbsp;
+  <img src="svgs/HTML5.svg" height="45"/> &nbsp;
+  <img src="svgs/CSS3.svg" height="45"/> &nbsp;
+  <img src="svgs/Git.svg" height="45"/> &nbsp;
+  <img src="svgs/GitHub.svg" height="45"/> &nbsp;
+  <img src="svgs/Postman.svg" height="45"/> &nbsp;
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasrin-a-mahin&theme=2077" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrin-a-mahin&theme=2077" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasrin-a-mahin&theme=2077&utcOffset=+05.30" width="32%"/>
+</div>
+
+---
+
+### 🧑🏻‍💻 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Nasrin_A_Mahin?theme=dark&ext=heatmap"/>
+</div>
+
+---
+
+<em>
+I enjoy learning, teaching, and building meaningful software.  
+Always open to collaboration and growth 🚀
+</em>
