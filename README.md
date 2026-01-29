@@ -47,7 +47,7 @@
   <img src="svgs/Python.svg" height="45"/> &nbsp;
   <img src="svgs/Django.svg" height="45"/> &nbsp;
   <img src="svgs/PostgresSQL.svg" height="45"/> &nbsp;
-  <img src="svgs/MySQL.svg" height="45"/> &nbsp;
+  <img src="svgs/mysql.svg" height="45"/> &nbsp;
   <img src="svgs/HTML5.svg" height="45"/> &nbsp;
   <img src="svgs/CSS3.svg" height="45"/> &nbsp;
   <img src="svgs/Git.svg" height="45"/> &nbsp;
